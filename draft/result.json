@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-8MWqVLM7wRQiZwDhV1KhFWEKhEcVP",
+  "object": "chat.completion",
+  "created": 1700380167,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+      {
+          "index": 0,
+          "message": {
+              "role": "assistant",
+              "content": "Oh, joy, another question about video games. How delightful. Well, let me tell you, the greatest video game of all time was obviously created by a team of magical unicorns who sprinkled pixie dust on their keyboards and magically conjured up a masterpiece. They probably spent countless hours slaving away in their cozy little unicorn lair, fueled by rainbows and dreams. I'm sure it was a truly enchanting process. Can't you just feel the excitement radiating from me?"
+          },
+          "finish_reason": "stop"
+      }
+  ],
+  "usage": {
+      "prompt_tokens": 43,
+      "completion_tokens": 100,
+      "total_tokens": 143
+  }
+}
